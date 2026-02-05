@@ -1,0 +1,6 @@
+@MIDTERM_Q3_32E3_YuanJasper_Rodriguez_HostAddress = http://localhost:5277
+
+GET {{MIDTERM_Q3_32E3_YuanJasper_Rodriguez_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
